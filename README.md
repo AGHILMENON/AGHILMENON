@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AGHILMENON
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning courses related to DATA SCIENCE
-- 💞️ I’m looking to collaborate on works related on DATA SCIENCE
+- 👀 I’m interested in AI
+- 💞️ I’m looking to collaborate on works related on AI
 - 📫 How to reach me (email:aghilmenon@gmail.com)
 
 <!---
